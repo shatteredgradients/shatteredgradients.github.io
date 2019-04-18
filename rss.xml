@@ -14,7 +14,8 @@
     </itunes:owner>
     <itunes:image href="" />
     <itunes:category text="Technology"/>
-    
+    <pubDate>Thu Apr 18 2019 19:30:00 GMT</pubDate>
+
       <item>
         <title>1. Hello World, and Vision for Autonomous Vehicles</title>
         <itunes:author></itunes:author>
@@ -25,7 +26,7 @@ We continue to discuss a few specific applications of deep learning in autonomou
         <itunes:image href="" />
         <enclosure url="https://shatteredgradients.github.io/episodes/1.mp3" length="24183173" type="audio/mpeg"/>
         <guid>4b26f61c-96ba-4953-adb6-55320f10a900</guid>
-        <pubDate>Thu Apr 18 2019 16:14:08 GMT-0400 (Eastern Daylight Time)</pubDate>
+        <pubDate>Thu Apr 18 2019 19:30:00 GMT</pubDate>
         <itunes:duration>0:31:52</itunes:duration>
       </item>
     
