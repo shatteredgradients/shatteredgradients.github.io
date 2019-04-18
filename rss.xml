@@ -20,7 +20,8 @@
         <itunes:author></itunes:author>
         <itunes:subtitle>Anish and Brendon discuss the technologies behind autonomous vehicles, and artificial intelligence in general.</itunes:subtitle>
         <itunes:summary>Anish and Brendon open our first episode by talking about the technologies behind artificial intelligence: What is deep learning? How does it work? What key problems can it solve?
-		      We continue to discuss a few specific applications of deep learning in autonomous driving, for both indoor and outdoor vehicles. Anish discusses semantic segmentation (a powerful technology for object recognition in images), and we wrap up the episode with Q/A.</itunes:summary>
+
+We continue to discuss a few specific applications of deep learning in autonomous driving, for both indoor and outdoor vehicles. Anish discusses semantic segmentation (a powerful technology for object recognition in images), and we wrap up the episode with Q/A.</itunes:summary>
         <itunes:image href="" />
         <enclosure url="https://shatteredgradients.github.io/episodes/1.mp3" length="24183173" type="audio/mpeg"/>
         <guid>4b26f61c-96ba-4953-adb6-55320f10a900</guid>
