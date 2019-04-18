@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" 
-   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-   xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
       <link>https://shatteredgradients.github.io</link>
       <language>en-us</language>
@@ -30,6 +28,7 @@
       <itunes:summary>Anish Singhani and Brendon Matusch discuss and offer new perspectives on the world of deep learning, including current projects in industry and academia.</itunes:summary>
       <itunes:subtitle>Anish Singhani and Brendon Matusch discuss and offer new perspectives on the world of deep learning, including current projects in industry and academia.</itunes:subtitle>
       <lastBuildDate>Thu, 18 Apr 2019 19:30 GMT</lastBuildDate>
+      <language>en-us</language>
 
       <item>
 	      <title>1. Hello World, and Vision for Autonomous Vehicles</title>
@@ -42,7 +41,7 @@
 		      We continue to discuss a few specific applications of deep learning in autonomous driving, for both indoor and outdoor vehicles. Anish discusses semantic segmentation (a powerful technology for object recognition in images), and we wrap up the episode with Q/A.
 	      </itunes:summary>
          <itunes:subtitle>Anish and Brendon discuss the technologies behind autonomous vehicles, and artificial intelligence in general.</itunes:subtitle>
-         <enclosure url="https://shatteredgradients.github.io" type="audio/mpeg" length="24183173" />
+         <enclosure url="https://shatteredgradients.github.io/episodes/1.mp3" type="audio/mpeg" length="24183173" />
          <guid>4b26f61c-96ba-4953-adb6-55320f10a900</guid>
          <itunes:duration>0:31:52</itunes:duration>
          <pubDate>Thu, 18 Apr 2019 19:30 GMT</pubDate>
