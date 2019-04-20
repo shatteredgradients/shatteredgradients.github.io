@@ -12,7 +12,7 @@
       <itunes:name>Brendon Matusch, Anish Singhani</itunes:name>
       <itunes:email>shatteredgradients@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="shatteredgradients.github.io/logo.jpg" />
+    <itunes:image href="https://shatteredgradients.github.io/logo.jpg" />
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <pubDate>Thu Apr 18 2019 19:30:00 GMT</pubDate>
