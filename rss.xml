@@ -12,8 +12,9 @@
       <itunes:name>Brendon Matusch, Anish Singhani</itunes:name>
       <itunes:email>shatteredgradients@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="" />
+    <itunes:image href="shatteredgradients.github.io/logo.jpg" />
     <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
     <pubDate>Thu Apr 18 2019 19:30:00 GMT</pubDate>
 
       <item>
@@ -22,8 +23,14 @@
         <itunes:subtitle>Anish and Brendon discuss the technologies behind autonomous vehicles, and artificial intelligence in general.</itunes:subtitle>
         <itunes:summary>Anish and Brendon open our first episode by talking about the technologies behind artificial intelligence: What is deep learning? How does it work? What key problems can it solve?
 
-We continue to discuss a few specific applications of deep learning in autonomous driving, for both indoor and outdoor vehicles. Anish discusses semantic segmentation (a powerful technology for object recognition in images), and we wrap up the episode with Q/A.</itunes:summary>
-        <itunes:image href="" />
+We continue to discuss a few specific applications of deep learning in autonomous driving, for both indoor and outdoor vehicles. Anish discusses semantic segmentation (a powerful technology for object recognition in images), and we wrap up the episode with Q/A.
+
+Please send comments, concerns, suggestions, compliments, insults, and requests to join the show as a guest to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Anish and Brendon open our first episode by talking about the technologies behind artificial intelligence: What is deep learning? How does it work? What key problems can it solve?
+
+We continue to discuss a few specific applications of deep learning in autonomous driving, for both indoor and outdoor vehicles. Anish discusses semantic segmentation (a powerful technology for object recognition in images), and we wrap up the episode with Q/A.
+
+Please send comments, concerns, suggestions, compliments, insults, and requests to join the show as a guest to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
         <enclosure url="https://shatteredgradients.github.io/episodes/1.mp3" length="24183173" type="audio/mpeg"/>
         <guid>4b26f61c-96ba-4953-adb6-55320f10a900</guid>
         <pubDate>Thu Apr 18 2019 19:30:00 GMT</pubDate>
