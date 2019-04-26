@@ -37,6 +37,26 @@ Please send comments, concerns, suggestions, compliments, insults, and requests 
         <pubDate>Thu Apr 18 2019 19:30:00 GMT</pubDate>
         <itunes:duration>0:31:52</itunes:duration>
       </item>
+	  
+	  <item>
+        <title>2. Real-World Ethics in Deep Learning, with Jacky Zhao</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Jacky Zhao joins Anish and to discuss ethical challenges and solutions in the world of deep learning.</itunes:subtitle>
+        <itunes:summary>Jacky Zhao, a student and deep learning researcher in Vancouver, joins Anish and Brendon to discuss ethical challenges and solutions in the world of deep learning.
+
+We talk about examples of ethical AI issues in industry, as well as Jacky's unique research applying deep learning to help people with hearing impairments.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Jacky Zhao, a student and deep learning researcher in Vancouver, joins Anish and Brendon to discuss ethical challenges and solutions in the world of deep learning.
+
+We talk about examples of ethical AI issues in industry, as well as Jacky's unique research applying deep learning to help people with hearing impairments.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
+        <enclosure url="https://shatteredgradients.github.io/episodes/2.mp3" length="19319436" type="audio/mpeg"/>
+        <guid>619d13eb-880e-4a9a-8f2b-c0da4201c1dc</guid>
+        <pubDate>Thu Apr 25 2019 23:00:00 GMT</pubDate>
+        <itunes:duration>0:25:20</itunes:duration>
+      </item>
     
   </channel>
   </rss>
