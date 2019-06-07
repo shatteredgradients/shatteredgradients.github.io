@@ -81,6 +81,26 @@ Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredg
         <pubDate>Thu May 30 2019 23:00:00 GMT</pubDate>
         <itunes:duration>0:37:17</itunes:duration>
       </item>
+
+      <item>
+        <title>4. Deep Learning in Embedded Electronics for Short-Term Storm Forecasting with Max von Wolff</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Brendon and Anish interview Max von Wolff about his research on short-term predictions of storm movement using deep learning with a network of distributed weather observation devices.</itunes:subtitle>
+        <itunes:summary>Brendon and Anish interview Max von Wolff, a student from Mayen, Germany, about his research on short-term predictions of storm movement using deep learning with a network of distributed weather observation devices.
+
+We discuss the advantages and difficulties of processing data collected with embedded devices in the field, the use of machine learning methods such as autoencoders for processing this data, and Max's plans to scale up his research!
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Brendon and Anish interview Max von Wolff, a student from Mayen, Germany, about his research on short-term predictions of storm movement using deep learning with a network of distributed weather observation devices.
+
+We discuss the advantages and difficulties of processing data collected with embedded devices in the field, the use of machine learning methods such as autoencoders for processing this data, and Max's plans to scale up his research!
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
+        <enclosure url="https://shatteredgradients.github.io/episodes/4.mp3" length="18041987" type="audio/mpeg"/>
+        <guid>b44fc4a9-4628-4660-ba0e-d8c09434d374</guid>
+        <pubDate>Thu Jun 06 2019 23:00:00 GMT</pubDate>
+        <itunes:duration>0:25:24</itunes:duration>
+      </item>
     
   </channel>
   </rss>
