@@ -101,6 +101,26 @@ Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredg
         <pubDate>Thu Jun 06 2019 23:00:00 GMT</pubDate>
         <itunes:duration>0:25:24</itunes:duration>
       </item>
+	  
+      <item>
+        <title>5. Generative-Adversarial Neural Networks and Voiceprinti Systems with Zach Trefler </title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Brendon and Anish interview Zach Trefler about his research on designing neural networks to create adversarial examples to defeat a voiceprinting system.</itunes:subtitle>
+        <itunes:summary>Brendon and Anish interview Zach Trefler, a student at the University of Toronto, about his research on designing neural networks to create adversarial examples to defeat a voiceprinting system.
+
+We discuss how generative-adversarial networks are applied and how they can be applied to generate adversarial examples, in order to trick a security system into classifying the examples as a completely different user.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Brendon and Anish interview Zach Trefler, a student at the University of Toronto, about his research on designing neural networks to create adversarial examples to defeat a voiceprinting system.
+
+We discuss how generative-adversarial networks are applied and how they can be applied to generate adversarial examples, in order to trick a security system into classifying the examples as a completely different user.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
+        <enclosure url="https://shatteredgradients.github.io/episodes/5.mp3" length="18694302" type="audio/mpeg"/>
+        <guid>68633c74-aba5-44b5-b087-1ae4104ca368</guid>
+        <pubDate>Thu Jun 28 2019 23:00:00 GMT</pubDate>
+        <itunes:duration>0:31:09</itunes:duration>
+      </item>
     
   </channel>
   </rss>
