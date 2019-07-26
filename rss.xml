@@ -103,17 +103,17 @@ Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredg
       </item>
 	  
       <item>
-        <title>5. Generative-Adversarial Neural Networks and Voiceprinti Systems with Zach Trefler </title>
+        <title>5. Generative-Adversarial Neural Networks and Voiceprint Systems with Zach Trefler</title>
         <itunes:author></itunes:author>
-        <itunes:subtitle>Brendon and Anish interview Zach Trefler about his research on designing neural networks to create adversarial examples to defeat a voiceprinting system.</itunes:subtitle>
-        <itunes:summary>Brendon and Anish interview Zach Trefler, a student at the University of Toronto, about his research on designing neural networks to create adversarial examples to defeat a voiceprinting system.
+        <itunes:subtitle>Brendon and Anish interview Zach Trefler about his research on designing neural networks to create adversarial examples to defeat a voiceprint identification system.</itunes:subtitle>
+        <itunes:summary>Brendon and Anish interview Zach Trefler, a student at the University of Toronto, about his research on designing neural networks to create adversarial examples to defeat, and then improve the security of, a voiceprinting system.
 
-We discuss how generative-adversarial networks are applied and how they can be applied to generate adversarial examples, in order to trick a security system into classifying the examples as a completely different user.
+We discuss how generative-adversarial networks are applied and how they can be applied to generate adversarial examples, in order to trick a security system into classifying the examples as a completely different user, and then how this can be used to develop a more secure system.
 
 Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
-        <description>Brendon and Anish interview Zach Trefler, a student at the University of Toronto, about his research on designing neural networks to create adversarial examples to defeat a voiceprinting system.
+        <description>Brendon and Anish interview Zach Trefler, a student at the University of Toronto, about his research on designing neural networks to create adversarial examples to defeat, and then improve the security of, a voiceprinting system.
 
-We discuss how generative-adversarial networks are applied and how they can be applied to generate adversarial examples, in order to trick a security system into classifying the examples as a completely different user.
+We discuss how generative-adversarial networks are applied and how they can be applied to generate adversarial examples, in order to trick a security system into classifying the examples as a completely different user, and then how this can be used to develop a more secure system.
 
 Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
         <enclosure url="https://shatteredgradients.github.io/episodes/5.mp3" length="18694302" type="audio/mpeg"/>
@@ -122,5 +122,25 @@ Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredg
         <itunes:duration>0:31:09</itunes:duration>
       </item>
     
+      <item>
+        <title>6. Genetic Algorithms with Filip Kučerak</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Brendon and Anish interview Filip Kučerak about his research on using genetic algorithms to generate realistic, lifelike trees in a simulated environment.</itunes:subtitle>
+        <itunes:summary>Brendon and Anish interview Filip Kučerak, a student from Slovakia, about his research on using genetic algorithms to generate realistic, lifelike trees in a simulated environment.
+
+We discuss how one develops a realistic simulation that can be optimized using genetic algorithms, the concepts that enable genetic algorithms to work, and how they relate to other machine learning methods.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Brendon and Anish interview Filip Kučerak, a student from Slovakia, about his research on using genetic algorithms to generate realistic, lifelike trees in a simulated environment.
+
+We discuss how one develops a realistic simulation that can be optimized using genetic algorithms, the concepts that enable genetic algorithms to work, and how they relate to other machine learning methods.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
+        <enclosure url="https://shatteredgradients.github.io/episodes/6.mp3" length="21798578" type="audio/mpeg"/>
+        <guid>b17aa805-3069-49a8-92e7-33faab7256f4</guid>
+        <pubDate>Thu Jul 25 2019 23:00:00 GMT</pubDate>
+        <itunes:duration>0:27:01</itunes:duration>
+      </item>
+
   </channel>
   </rss>
