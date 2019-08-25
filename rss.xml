@@ -142,5 +142,25 @@ Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredg
         <itunes:duration>0:27:01</itunes:duration>
       </item>
 
+      <item>
+        <title>7. Seeing Through Walls with Kevin Meng</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Brendon interviews Kevin Meng, a student ML researcher from Texas, about his research on using machine learning to reconstruct a person's pose using RF data even when a wall or obstruction is present. Kevin also shares insights on presenting ML research , and his plans for the future!</itunes:subtitle>
+        <itunes:summary>Brendon interviews Kevin Meng, a student ML researcher from Plano, Texas, about his research on using machine learning, specifically many-to-many recurrent models, to reconstruct a person's pose using RF data even when a wall or obstruction is present, taking advantage of time series data.
+
+Kevin also shares insights on presenting ML research to the public, and his plans for future research directions relating to natural language processing for media fact checking!
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Brendon interviews Kevin Meng, a student ML researcher from Plano, Texas, about his research on using machine learning, specifically many-to-many recurrent models, to reconstruct a person's pose using RF data even when a wall or obstruction is present, taking advantage of time series data.
+
+Kevin also shares insights on presenting ML research to the public, and his plans for future research directions relating to natural language processing for media fact checking!
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
+        <enclosure url="https://shatteredgradients.github.io/episodes/6.mp3" length="21798578" type="audio/mpeg"/>
+        <guid>ad030823-b178-4645-a3ad-14c49248852a</guid>
+        <pubDate>Thu Aug 24 2019 23:00:00 GMT</pubDate>
+        <itunes:duration>0:36:41</itunes:duration>
+      </item>
+
   </channel>
   </rss>
