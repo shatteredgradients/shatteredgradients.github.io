@@ -162,5 +162,21 @@ Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredg
         <itunes:duration>0:36:41</itunes:duration>
       </item>
 
+      <item>
+        <title>8. Everything Under the Sun with Krithik Ramesh</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>Krithik Ramesh, a student ML engineer/polymath from Colorado, joins Brendon to talk about ML as it relates to the arts, philosophy, automation, politics, and the future.</itunes:subtitle>
+        <itunes:summary>Krithik Ramesh, a student ML engineer/polymath from Colorado, joins Brendon to talk about ML as it relates to the arts, philosophy, automation, politics, and the future.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</itunes:summary>
+        <description>Krithik Ramesh, a student ML engineer/polymath from Colorado, joins Brendon to talk about ML as it relates to the arts, philosophy, automation, politics, and the future.
+
+Please send comments to <a href="mailto:shatteredgradients@gmail.com">shatteredgradients@gmail.com</a>.</description>
+        <enclosure url="https://shatteredgradients.github.io/episodes/8.mp3" length="40206605" type="audio/mpeg"/>
+        <guid>ad030823-b178-4645-a3ad-14c49248852a</guid>
+        <pubDate>Thu Oct 28 2019 23:00:00 GMT</pubDate>
+        <itunes:duration>0:59:40</itunes:duration>
+      </item>
+
   </channel>
   </rss>
